@@ -1,4 +1,4 @@
-# Monitoring Dockerized Flask Applications with Alternative Tools
+# Monitoring Dockerized Flask Applications with Telegraf, InfluxDB, and Chronograf
 
 ## Overview
 
